@@ -1,0 +1,8 @@
+﻿  AVLTree.cpp
+c:\users\kaylee\documents\cse stuff\eecs 2510 non linear\projects\lab 3\lab 3\BinarySearchTree.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+AVLTree.cpp(309): warning C4018: '>': signed/unsigned mismatch
+  Generating code
+  All 231 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Lab 3.vcxproj -> C:\Users\Kaylee\Documents\CSE stuff\EECS 2510 Non Linear\Projects\Lab 3\Release\Lab 3.exe
+  Lab 3.vcxproj -> C:\Users\Kaylee\Documents\CSE stuff\EECS 2510 Non Linear\Projects\Lab 3\Release\Lab 3.pdb (Full PDB)
